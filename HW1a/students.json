@@ -1,0 +1,51 @@
+[
+    {
+        "first_name": "Omri",
+        "last_name": "Gawi",
+        "email": "Omri.gawi@e.braude.ac.il",
+        "courses": ["Cloud", "Final Project", "Kalkala", "Aspaka"],
+        "link": "https://mhaifafc.com/",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Omri",
+        "last_name": "Shalev",
+        "email": "Omri.shalev@e.braude.ac.il",
+        "courses": ["Cloud", "Final Project", "Kalkala", "Aspaka"],
+        "link": "https://www.fcbarcelona.com/en/",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Bar",
+        "last_name": "Steiner",
+        "email": "Bar.Steiner@e.braude.ac.il",
+        "courses": ["Web Development", "Database Systems", "Cloud"],
+        "link": "https://www.zara.com/il/",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Ran",
+        "last_name": "Polac",
+        "email": "Ran.polac@e.braude.ac.il",
+        "courses": ["Crypto", "Database Systems", "Cloud"],
+        "link": "https://en.wikipedia.org/wiki/Egg",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Omer",
+        "last_name": "Sommerstein",
+        "email": "Omer.Sommerstein@e.braude.ac.il",
+        "courses": ["Probability", "Crypto", "Automates"],
+        "link": "https://www.python.org/",
+        "favorite_show": ""
+    },
+    {
+        "first_name": "Noam",
+        "last_name": "Ofir",
+        "email": "Noam.Ofir@e.braude.ac.il",
+        "courses": ["Probability", "Crypto", "Automates"],
+        "link": "https://www.java.com/en/",
+        "favorite_show": ""
+    }
+
+]
