@@ -1,0 +1,54 @@
+{
+  "question": [
+    {
+      "answer": "3.3333",
+      "options": [
+        "3.3333",
+        "3.33",
+        "3",
+        "3.0"
+      ],
+      "text": "What is the output of the following code? \\n print(10 / 3)"
+    },
+    {
+      "answer": "array",
+      "options": [
+        "int",
+        "float",
+        "string",
+        "array"
+      ],
+      "text": "Which of the following is not a built-in data type in Python?"
+    },
+    {
+      "answer": "while i < 10: do something",
+      "options": [
+        "while i < 10: do something",
+        "while i < 10: { do something }",
+        "while i < 10: if i == 5: break",
+        "while i < 10: i++"
+      ],
+      "text": "What is the correct syntax for a while loop in Python?"
+    },
+    {
+      "answer": "=",
+      "options": [
+        "==",
+        "!=",
+        "=",
+        "<"
+      ],
+      "text": "Which of the following is not a valid comparison operator in Python?"
+    },
+    {
+      "answer": "def my_function(): do something",
+      "options": [
+        "def my_function(): { do something }",
+        "def my_function(): do something",
+        "def my_function(): { return something }",
+        "def my_function(): return something"
+      ],
+      "text": "What is the correct way to define a function in Python?"
+    }
+  ]
+}
